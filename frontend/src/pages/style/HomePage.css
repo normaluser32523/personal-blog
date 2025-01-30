@@ -1,0 +1,22 @@
+.page-header {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #1e3d58;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #1e3d58;
+}
+
+.card-content {
+    font-size: 1rem;
+    color: #2f4f4f;
+}
